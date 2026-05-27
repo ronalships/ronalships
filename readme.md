@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ronal Raj 👋</h1>
+[<h1>Hi, I'm Ronal Raj 👋</h1>
 
 <p>DevOps engineer based in India. I build and operate production cloud infrastructure, and ship small open-source CLIs that make everyday developer pain visible and fixable.</p>
 
@@ -37,3 +37,4 @@
 ---
 
 <p align="center"><i>Building in public. Follow along on X for the day-to-day.</i></p>
+](https://medium.com/@rajronal01)
