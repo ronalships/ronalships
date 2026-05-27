@@ -30,7 +30,7 @@
 - **3+ years** running production cloud infrastructure
 - **Certified Kubernetes Administrator (CKA)**
 - **AWS Certified Solutions Architect**
-- Currently with [**Remote State**](https://remotestate.com/)
+- Currently with **Sahyog Galactica India Technologies**
 - Writing on [**GeeksforGeeks**](https://auth.geeksforgeeks.org/user/ronalraj/articles) and [**Medium**](https://medium.com/@rajronal01)
 
 ---
