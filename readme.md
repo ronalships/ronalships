@@ -1,4 +1,4 @@
-[<h1>Hi, I'm Ronal Raj 👋</h1>
+<h1>Hi, I'm Ronal Raj 👋</h1>
 
 <p>DevOps engineer based in India. I build and operate production cloud infrastructure, and ship small open-source CLIs that make everyday developer pain visible and fixable.</p>
 
